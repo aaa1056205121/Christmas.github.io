@@ -1,9 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&family=Great+Vibes&family=Passions+Conflict&display=swap');
+
 body {
   display: flex;
   height: 100vh;
   align-items: center;
   justify-content: center;
   background-color: #16323d;
+}
+
+h1{
+  position: absolute;
+  top: 0px;
+  font-family: 'Passions Conflict', cursive;
+
+  font-size: 60px;
 }
 
 .christmas-tree {
